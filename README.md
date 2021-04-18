@@ -1,5 +1,13 @@
 # Exploring climate change in Finland using Python
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HUGG/Climate-data-analysis/main/?urlpath=lab/tree/climate-exercise.ipynb)
+## Suomeksi
 
-Click the "launch binder" icon above to start the exercise.
+Click the "launch binder" icon below to start the exercise.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HUGG/Climate-data-analysis/main/?urlpath=tree/ilmastodata-harjoitus.ipynb)
+
+## English version
+
+Click the "launch binder" icon below to start the exercise.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HUGG/Climate-data-analysis/main/?urlpath=tree/climate-exercise.ipynb)
